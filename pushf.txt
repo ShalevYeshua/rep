@@ -1,1 +1,2 @@
-Newline.txt:original data of the filechange from Feature1 branch
+
+// Newline.txt:original data of the filechange from Feature2 branch 
